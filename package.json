@@ -1,0 +1,9 @@
+{
+  "name": "pgb-hr-dashboard",
+  "version": "1.0.0",
+  "description": "PGB Group HR Dashboard",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}
